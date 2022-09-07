@@ -1,4 +1,4 @@
-# pythonnbaproject
+# cscib500_nba_linear_regression
 
 Using the regular seasons stats from the 2017-2018 NBA season and using Linear Regression 
 to see if there is a relationship between the Minutes Played (MP) and the Player Efficiency rating (PER).
